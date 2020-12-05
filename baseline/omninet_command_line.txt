@@ -1,0 +1,1 @@
+python train.py 100000 caption 64 --n_gpus 2 --save_interval 1000 --eval_interval 1000
